@@ -1,8 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Allerta');
+
 .mobile {
   background: #36393B;
   width: 100%;
 }
+
+ul.mobile {
+  padding-left: 0;
+}
+
 .header-font{
   font-family: 'Allerta', sans-serif;
 }
