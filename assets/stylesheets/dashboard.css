@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Allerta');
-
 .mobile {
   background: #36393B;
   width: 100%;
@@ -9,7 +8,7 @@ ul.mobile {
   padding-left: 0;
 }
 
-.header-font{
+.header-font {
   font-family: 'Allerta', sans-serif;
 }
 
@@ -150,7 +149,8 @@ a>i {
   width: 100%;
   object-fit: cover;
 }
-.edit-tenants{
+
+.edit-tenants {
   margin-top: 2em;
 }
 
@@ -192,7 +192,7 @@ a>i {
   .property-image-cropper {
     max-height: 400px;
   }
-  .edit-tenants{
+  .edit-tenants {
     margin-top: 0;
   }
 }
